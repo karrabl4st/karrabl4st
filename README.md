@@ -2,7 +2,7 @@
 ### 👀 I’m interested in 
 Java, Javascript, and VS Code
 ### 🌱 I’m currently learning 
-about Linked Lists
+HTML
 ### ❤️ I love
 cheems memes!
 ![](https://i.imgflip.com/3nzkub.png)
