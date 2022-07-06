@@ -2,7 +2,7 @@
 ### 👀 I’m interested in 
 HTML, CSS, and VS Code
 ### 🌱 I’m currently learning 
-HTML
+CSS and JavaScript
 ### ❤️ I love
 cheems memes!
 ![](https://i.imgflip.com/3nzkub.png)
