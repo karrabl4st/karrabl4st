@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karrabl4st
 ### 👀 I’m interested in 
-Java, Javascript, and VS Code
+HTML, CSS, and VS Code
 ### 🌱 I’m currently learning 
 HTML
 ### ❤️ I love
