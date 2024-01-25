@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @karrabl4st
-### 👀 I’m interested in 
-HTML, CSS, and VS Code
-### 🌱 I’m currently learning 
-CSS and JavaScript
 ### ❤️ I love
 cheems memes!
 ![](https://i.imgflip.com/3nzkub.png)
